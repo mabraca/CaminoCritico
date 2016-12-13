@@ -1,0 +1,8 @@
+4
+Algoritmos3 BaseDeDatos Lenguajes Pasantia
+EstGeneral 2
+Algoritmos3 0
+BaseDeDatos 0
+Redes 1
+Lenguajes 0
+Pasantia 0

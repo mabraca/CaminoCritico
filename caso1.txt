@@ -1,0 +1,13 @@
+6 6
+EstGeneral
+Pasantia
+BaseDeDatos
+Redes
+Algoritmos3
+Lenguajes
+Algoritmos3 BaseDeDatos
+BaseDeDatos Lenguajes
+Lenguajes Pasantia
+Algoritmos3 Redes
+Redes Pasantia
+EstGeneral Pasantia
